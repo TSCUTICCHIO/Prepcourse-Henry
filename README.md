@@ -1,2 +1,2 @@
 # Prepcourse-Henry
-Repositorio de prueba del módulo 2
+Tomás Scuticchio. Prueba de creaci+on de repositorio y clonación desde github.
